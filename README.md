@@ -4,13 +4,13 @@ Estamos em construção
 <body>
 <div aling="left">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&show_icons=true&&theme=cobalt&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&show_icons=true&theme=cobalt&count_private=true" />
 </a>
 </div>
 
 <div aling="left">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTerryMaster&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTerryMaster&langs_count=8&theme=cobal" />
 </a>
 </div>
 
