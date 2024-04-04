@@ -4,7 +4,7 @@ Estamos em construção
 <body>
 <div aling="left">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&show_icons=true&theme=transparent&count_private=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&show_icons=true&theme=transparent&count_private=true&theme=cobalt" />
 </a>
 </div>
 
