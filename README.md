@@ -1,7 +1,4 @@
 <html>
-<head>
-  <title>Em Costrução</title>
-</head>
 <body>
 <div aling="left">
       <td><a href="https://github.com/anuraghazra/github-readme-stats">
