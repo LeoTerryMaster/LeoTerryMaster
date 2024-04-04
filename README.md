@@ -9,6 +9,6 @@
 
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTerryMaster&langs_count=8" />
 </a>
