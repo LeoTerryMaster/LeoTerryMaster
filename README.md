@@ -10,11 +10,19 @@ Estamos em construção
 
 <div aling="left">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terrymaster&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTerryMaster&langs_count=8" />
 </a>
 </div>
 
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeoTerryMaster)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div aling="left">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LeoTerryMaster" />
+</a>
+</div>
+
+
 </body>
 </html>
 
