@@ -1,9 +1,9 @@
 <html>
 <body>
-  <h1 align="center">Olá, sou Leandro Gomes [TerryMaster-inGame]</h1>
+  <h1 align="center">👋Olá, sou Leandro Gomes👋[TerryMaster-inGame]</h1>
   <h2 align="center">Criador de conteúdo e tecnologias!</h2>
 
-  <p>    Sejam bem vindo ao pote de ouro onde eu aprendo e trago aqui o melhor das tecnologias, apaixonado por jogos meu foco e o estudo para criação de jogos. <br>
+  <p>    Sejam bem vindo ao pote de ouro onde eu aprendo e trago aqui o melhor das tecnologias, apaixonado por jogos meu foco e o estudo para 😍criação de jogos😍. <br>
          Porém quando o assunto é aprender não dispenso oportunidade e seja jogos ou industrial eu to dentro.
   </p>
 <hr>
@@ -45,15 +45,13 @@
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&include_all_commits=true&show_icons=true&card_width=820&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![LeoTerryMaster  GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&include_all_commits=true&show_icons=true&card_width=820&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <hr>
 
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TerryMaster)](https://github.com/LeoTerryMaster/github-readme-stats)
+  [![TerryMaster WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TerryMaster)](https://github.com/LeoTerryMaster/github-readme-stats)
 <hr>
 </div>
-
-
 
 </body>
 </html>
