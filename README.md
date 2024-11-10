@@ -18,8 +18,8 @@
   </h1>
   <h2 align="center">Criador de conteúdo e tecnologias!</h2>
 
-  <p>    Sejam bem vindo ao pote de ouro onde eu aprendo e trago aqui o melhor das tecnologias, apaixonado por jogos meu foco e o estudo para 😍criação de jogos😍. <br>
-         Porém quando o assunto é aprender não dispenso oportunidade e seja jogos ou industrial eu to dentro.
+  <p>    Sejam bem vindo ao meu pote de ouro, onde eu aprendo e trago aqui o melhor das tecnologias, apaixonado por jogos meu foco e o estudo para 😍criação de jogos😍. <br>
+         Porém, quando o assunto é aprender não dispenso oportunidade e seja jogos ou industrial eu to dentro.
   </p>
 <hr>
 <table border="0">
