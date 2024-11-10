@@ -1,7 +1,7 @@
 <html>
 <body>
   <h1 align="center">👋Olá, sou Leandro Gomes👋
-  <table align="center">
+  <table align="center" border="0">
   <tr>
   <td>
   <img src="https://media2.giphy.com/media/urfh9LOBcKg4vgmkCi/giphy.webp" width="80">
