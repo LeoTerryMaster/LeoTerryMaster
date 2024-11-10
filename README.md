@@ -36,8 +36,13 @@
 </td>
 </tr>
 </table>
+<hr>
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFyd3BibWdvNDl4YWQ3d3R4c2FjdW5zc2dlY3FtcHc0dHp6OWx6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.webp" width="300" height="300">
+</div>
 
-<div>
+<div align="center">
+
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
