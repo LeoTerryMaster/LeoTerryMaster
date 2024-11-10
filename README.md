@@ -1,6 +1,20 @@
 <html>
 <body>
-  <h1 align="center">👋Olá, sou Leandro Gomes👋[TerryMaster-inGame]</h1>
+  <h1 align="center">👋Olá, sou Leandro Gomes👋
+  <table align="center">
+  <tr>
+  <td>
+  <img src="https://media2.giphy.com/media/urfh9LOBcKg4vgmkCi/giphy.webp" width="80">
+  </td>
+  <td>
+   [TerryMaster-inGame]
+  </td>
+  <td>
+   <img src="https://media1.giphy.com/media/Y4dj3NVmgcUWCzSmoq/giphy.webp" width="80">
+  </td>
+  </tr>
+  </table>
+  </h1>
   <h2 align="center">Criador de conteúdo e tecnologias!</h2>
 
   <p>    Sejam bem vindo ao pote de ouro onde eu aprendo e trago aqui o melhor das tecnologias, apaixonado por jogos meu foco e o estudo para 😍criação de jogos😍. <br>
@@ -38,7 +52,18 @@
 </table>
 <hr>
 <div align="center">
+
+<table>
+<tr>
+<td>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFyd3BibWdvNDl4YWQ3d3R4c2FjdW5zc2dlY3FtcHc0dHp6OWx6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.webp" width="300" height="300">
+</td>
+<td>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnAzaHJmdXU0NDA1dmRna2VuZ2ppa2hzY3NmcXY3MHJsMGRieDJ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5nkz98HmeYKfyCQsdY/giphy.webp" width="300">
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
