@@ -8,9 +8,8 @@ Estamos em construção
   <p>    Sejam bem vindo ao pote de ouro onde eu aprendo e trago aqui o melhor das tecnologias, apaixonado por jogos meu foco e o estudo para criação de jogos. <br>
          Porém quando o assunto é aprender não dispenso oportunidade e seja jogos ou industrial eu to dentro.
   </p>
-<br>
-<br>
-<h1></h1>
+
+<hr>
 <table border="0">
 <tr>
 <td><img src="img/java.png" width="64" height="64"></td>
@@ -20,7 +19,7 @@ Estamos em construção
 <td><img src="img/php.png" width="64" height="64"></td>
 </tr>
 </table>
-<h1></h1>
+<hr>
 <table border="0">
 <tr>
 <td><a href="https://mult-verso.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
@@ -41,16 +40,15 @@ Estamos em construção
 </tr>
 </table>
 
-<h1></h1>
 <div>
-<h1></h1>
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
 
-<h1></h1>
+<hr>
 
   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TerryMaster)](https://github.com/LeoTerryMaster/github-readme-stats)
-  <h1></h1>
+<hr>
 </div>
 
 
