@@ -44,9 +44,18 @@
 <div align="center">
 
 <hr>
+<table>
+<tr>
+<td>
 
-![LeoTerryMaster  GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&include_all_commits=true&show_icons=true&card_width=820&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![LeoTerryMaster  GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&include_all_commits=true&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+</td>
+<td>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTerryMaster&layout=donut-vertical)](https://github.com/LeoTerryMaster/github-readme-stats)
+</td>
+</tr>
+</table>
 <hr>
 
   [![TerryMaster WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TerryMaster)](https://github.com/LeoTerryMaster/github-readme-stats)
