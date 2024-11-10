@@ -22,7 +22,7 @@
          Porém quando o assunto é aprender não dispenso oportunidade e seja jogos ou industrial eu to dentro.
   </p>
 <hr>
-<table>
+<table border="0">
 <tr>
 <td><img src="img/java.png" width="64" height="64"></td>
 <td><img src="img/js.png" width="64" height="64"></td>
@@ -32,7 +32,8 @@
 </tr>
 </table>
 <hr>
-<table>
+
+<table border="0">
 <tr>
 <td><a href="https://mult-verso.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </td>
@@ -54,7 +55,7 @@
 <hr>
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
 <td>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFyd3BibWdvNDl4YWQ3d3R4c2FjdW5zc2dlY3FtcHc0dHp6OWx6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.webp" width="300" height="300">
@@ -67,7 +68,7 @@
 
 </div>
 
-<div align="center">
+<div border="0" align="center">
 
 <hr>
 <table>
