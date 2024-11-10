@@ -1,5 +1,3 @@
-Estamos em construção
-
 <html>
 <body>
   <h1 align="center">Olá, sou Leandro Gomes [TerryMaster-inGame]</h1>
@@ -10,7 +8,7 @@ Estamos em construção
   </p>
 
 <hr>
-<table border="0">
+<table>
 <tr>
 <td><img src="img/java.png" width="64" height="64"></td>
 <td><img src="img/js.png" width="64" height="64"></td>
@@ -19,8 +17,10 @@ Estamos em construção
 <td><img src="img/php.png" width="64" height="64"></td>
 </tr>
 </table>
+
 <hr>
-<table border="0">
+
+<table>
 <tr>
 <td><a href="https://mult-verso.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </td>
