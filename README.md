@@ -6,7 +6,6 @@
   <p>    Sejam bem vindo ao pote de ouro onde eu aprendo e trago aqui o melhor das tecnologias, apaixonado por jogos meu foco e o estudo para criação de jogos. <br>
          Porém quando o assunto é aprender não dispenso oportunidade e seja jogos ou industrial eu to dentro.
   </p>
-
 <hr>
 <table>
 <tr>
@@ -17,9 +16,7 @@
 <td><img src="img/php.png" width="64" height="64"></td>
 </tr>
 </table>
-
 <hr>
-
 <table>
 <tr>
 <td><a href="https://mult-verso.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
