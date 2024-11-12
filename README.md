@@ -25,11 +25,11 @@
 <table border="0">
 <tr>
 <td><img src="img/java.png" width="64" height="64"></td>
+<td><img src="img/jsp.png" width="80" height="64"></td>
 <td><img src="img/js.png" width="64" height="64"></td>
 <td><img src="img/html.png" width="64" height="64"></td>
 <td><img src="img/css.png" width="64" height="64"></td>
 <td><img src="img/php.png" width="64" height="64"></td>
-<td><img src="img/jsp.png" width="80" height="64"></td>
 </tr>
 </table>
 <hr>
