@@ -17,7 +17,7 @@
   </tbody>
   </h1>
 
-<table  width="100%">
+<table border="0" width="100%">
 <tr>
 <td align="center">
 <h2 >Venha para nosso Fórum </h2>
