@@ -17,16 +17,12 @@
   </tbody>
   </h1>
 
-<table border="0" width="100%">
-<tr>
-<td align="center">
-<h2 >Venha para nosso Fórum </h2>
-<a href="https://www.mult-verso.com/" target="_blank">
+<h2 align="center" >Venha para nosso Fórum </h2>
+<center>
+<a href="https://www.mult-verso.com/" target="_blank" >
 <img  src="img/forum.jpg" width="320" height="226" >
 </a>
-<td>
-<tr>
-</table>
+</center>
 <hr>
 
   <h2 align="center">Criador de conteúdo e tecnologias!</h2>
