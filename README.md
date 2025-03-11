@@ -36,7 +36,9 @@
 
   <div>
    <h1> Desenvolvimento:</h1>
-      <a href="https://github.com/LeoTerryMaster/Java_Web_Agenda" target="_blank">Projeto fibalizado</a>
+      <a href="https://github.com/LeoTerryMaster/Java_Web_Agenda" target="_blank" >Projeto finalizado</a>
+    <br>
+    <br>
     <ul>
         <li>Java 19</li>
         <li>Tomcat 9</li>
