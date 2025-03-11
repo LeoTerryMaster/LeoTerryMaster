@@ -30,6 +30,28 @@
   <p>    Sejam bem vindo ao meu pote de ouro, onde eu aprendo e trago aqui o melhor das tecnologias, apaixonado por jogos meu foco e o estudo para 😍criação de jogos😍. <br>
          Porém, quando o assunto é aprender não dispenso oportunidade e seja jogos ou industrial eu to dentro.
   </p>
+
+
+  <a href="[https://mult-verso.com](https://github.com/LeoTerryMaster/Java_Web_Agenda)" target="_blank">Projeto fibalizado</a>
+
+  <div>
+   <h1> Desenvolvimento:</h1>
+    <ul>
+        <li>Java 19</li>
+        <li>Tomcat 9</li>
+        <li>MariaDB</li>
+        <li>iTexPdf</li>
+        <li>Html /Css /Js</li>
+    </ul>
+    <br>
+    <h1></h1>
+    <ol>
+    <li>Criar contato</li>
+    <li>Editar contato</li>
+    <li>Excluir contato</li>
+    <li>Relatório em pdf dos contato</li>
+    </ol>
+</div>
 <hr>
 <table border="0">
 <tr>
