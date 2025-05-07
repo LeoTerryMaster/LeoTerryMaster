@@ -1,17 +1,20 @@
-# 👋 Olá, sou Leandro Gomes 👋
+# 👋 Olá, sou **Leandro Gomes** 👋
 
 [![TerryMaster-inGame](https://media1.giphy.com/media/Y4dj3NVmgcUWCzSmoq/giphy.webp)](https://www.mult-verso.com/)
 
-Seja bem-vindo ao meu perfil! Sou apaixonado por **tecnologia e jogos**, focado no estudo e criação de jogos. Estou sempre aprendendo e criando novas oportunidades no universo da programação e no campo industrial.
+Seja bem-vindo ao meu perfil! Sou um entusiasta de **tecnologia e jogos**, com foco no desenvolvimento e estudo de **jogos** e **programação**. Estou sempre em busca de novos desafios e oportunidades para inovar e criar soluções tecnológicas.
 
-## 🌐 Fórum Mult-Verso
-Acesse o nosso [Fórum Mult-Verso](https://www.mult-verso.com/), onde discutimos sobre diversos tópicos e tecnologias!
+---
+
+## 🌐 **Fórum Mult-Verso**
+
+Acesse o nosso [**Fórum Mult-Verso**](https://www.mult-verso.com/) onde discutimos sobre uma variedade de tópicos relacionados a **tecnologia**, **jogos** e **programação**.
 
 [![Fórum Mult-Verso](https://img.shields.io/badge/Forum-Visit-2a9d8f?style=for-the-badge)](https://www.mult-verso.com/)
 
 ---
 
-## 🚀 Projetos em Desenvolvimento
+## 🚀 **Projetos em Desenvolvimento**
 
 ### **Projeto Finalizado - Java Web Agenda**
 [Veja no GitHub](https://github.com/LeoTerryMaster/Java_Web_Agenda)
@@ -20,16 +23,16 @@ Acesse o nosso [Fórum Mult-Verso](https://www.mult-verso.com/), onde discutimos
 - Java 19
 - Tomcat 9
 - MariaDB
-- iTexPdf
-- HTML / CSS / JS
+- iTextPDF
+- HTML / CSS / JavaScript
 
 **Funcionalidades:**
-- Criar, editar e excluir contatos
-- Relatório em PDF dos contatos
+- **Gerenciamento de Contatos:** Criar, editar e excluir contatos.
+- **Relatórios em PDF:** Gerar relatórios em PDF dos contatos cadastrados.
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 💻 **Tecnologias e Ferramentas**
 
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) Java
 - ![JSP](https://img.shields.io/badge/JSP-FFB913?style=for-the-badge&logo=jsp&logoColor=white) JSP
@@ -40,41 +43,40 @@ Acesse o nosso [Fórum Mult-Verso](https://www.mult-verso.com/), onde discutimos
 
 ---
 
-## 🔗 Conecte-se comigo
+## 🔗 **Conecte-se comigo**
 
-- [Website](https://mult-verso.com)
-- [YouTube](https://www.youtube.com/@L2MultVerso)
-- [Facebook](https://www.facebook.com/profile.php?id=100094957390851)
-- [LinkedIn](https://www.linkedin.com/in/leandro-gomes-santos-81694919b/)
-- [WhatsApp](https://chat.whatsapp.com/J85Vz2Fi8stGoTWSLIMPdk)
-- [Instagram](https://www.instagram.com/terrygomess/)
-- [Discord](https://discord.gg/EN8mJBcu)
+- **Website:** [mult-verso.com](https://mult-verso.com)
+- **YouTube:** [@L2MultVerso](https://www.youtube.com/@L2MultVerso)
+- **Facebook:** [Leandro Gomes](https://www.facebook.com/profile.php?id=100094957390851)
+- **LinkedIn:** [Leandro Gomes Santos](https://www.linkedin.com/in/leandro-gomes-santos-816949- **WhatsApp:** [Grupo Mult-Verso](https://chat.whatsapp.com/J85Vz2Fi8stGoTWSLIMPdk)
+- **Instagram:** [@terrygomess](https://www.instagram.com/terrygomess/)
+- **Discord:** [Server Mult-Verso](https://discord.gg/EN8mJBcu)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&include_all_commits=true&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ---
 
-## 🧑‍💻 Linguagens Mais Usadas
+## 🧑‍💻 **Linguagens Mais Usadas**
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTerryMaster&layout=donut-vertical)](https://github.com/LeoTerryMaster/github-readme-stats)
 
 ---
 
-## ⏱️ WakaTime Stats
+## ⏱️ **WakaTime Stats**
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TerryMaster)](https://github.com/LeoTerryMaster/github-readme-stats)
 
 ---
 
-## 📂 Projetos e Contribuições
+## 📂 **Projetos e Contribuições**
 
-Acompanhe meu repositório de projetos e contribuições em desenvolvimento!  
-[GitHub - LeoTerryMaster](https://github.com/LeoTerryMaster)
+Acompanhe meus projetos e contribuições em desenvolvimento diretamente no meu [**GitHub**](https://github.com/LeoTerryMaster).
 
 ---
 
-Obrigado por visitar meu perfil! Vamos juntos nessa jornada de aprendizado e crescimento! 🚀
+### **Obrigado por visitar meu perfil!**  
+Vamos juntos nessa jornada de aprendizado e inovação tecnológica! 🚀
