@@ -23,6 +23,9 @@ Acesse o nosso [**Fórum Mult-Verso**](https://www.mult-verso.com/) onde discuti
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS3
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) PHP
 
+- ## 🔗 **MEU CURRÍCULO**
+- - ![PHP]([https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://leoterrymaster.github.io/emprego/)) PHP
+
 ---
 
 ## 🔗 **Conecte-se comigo**
