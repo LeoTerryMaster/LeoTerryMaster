@@ -24,7 +24,7 @@ Acesse o nosso [**Fórum Mult-Verso**](https://www.mult-verso.com/) onde discuti
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) PHP
 
 - ## 🔗 **MEU CURRÍCULO**
-- - ![PHP]([https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://leoterrymaster.github.io/emprego/)) PHP
+- - ![MEU CURRÍCULO ]([https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://leoterrymaster.github.io/emprego/)) PHP
 
 ---
 
