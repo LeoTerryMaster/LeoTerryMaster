@@ -112,55 +112,23 @@
 - Geração de relatórios em PDF
 
 ---
-
-### 🌐 Mult-Verso - Site Oficial  
-🔗 [Visite o site](https://www.mult-verso.com)
-
-**Funcionalidades:**
-- Licenciamento dinâmico
-- Comentários em destaque
-- Rodapé com informações gerais
-
+<h2>🔐 API de Licenciamento Segura</h2>
 ---
+<p>Sistema completo para <strong>validação de licenças</strong> com foco em segurança, controle e automação:</p>
 
-## 🔐 Sistema de Login Seguro
+<ul>
+  <li>🔑 Autenticação por Token/API Key</li>
+  <li>🔒 Restrição por IP e validade da licença</li>
+  <li>📋 Logs detalhados de requisições (banco e arquivos)</li>
+  <li>⚙️ Integração com sistema Java</li>
+  <li>🧠 Controle avançado por tipo de licença</li>
+  <li>💳 Suporte ao MercadoPago (pagamentos automáticos)</li>
+</ul>
 
-- Autenticação com token e sessões seguras  
-- Controle de tentativas de login  
-- Níveis de acesso (Admin / Usuário)
+<p>
+  🔗 <a href="https://www.mult-verso.com" target="_blank">Ver projeto completo</a>
+</p>
 
----
-
-## 🛠️ Backend & API
-
-- Autenticação com chave/API Token  
-- Restrições por IP  
-- Gerenciamento de licenças com validade e status  
-
----
-
-## 📊 Painel do Usuário
-
-- CRUD de licenças com autenticação por senha  
-- Controle de status e valores  
-- Logs detalhados em banco e arquivos
-
----
-
-## 💳 Integração com MercadoPago
-
-- Pagamento automático de planos/licenças  
-- Stripe e PayPal (indisponíveis)
-
----
-
-## 🧠 Sistema Java & Segurança
-
-- Bloqueio por IP  
-- Integração com painel web  
-- Controle detalhado de funcionalidades por licença  
-
----
 
 ## ⭐ Contribuições & Repositórios
 
