@@ -13,6 +13,16 @@
 
 ---
 
+## 🔗 Currículo
+
+<p align="center">
+  <a href="https://leoterrymaster.github.io/emprego/">
+    <img src="https://img.shields.io/badge/Meu_Currículo-Download-blue?style=for-the-badge&logo=adobeacrobat">
+  </a>
+</p>
+
+---
+
 ## 🌐 Fórum Mult-Verso
 
 <p>
@@ -65,16 +75,6 @@
 <p align="center">
   <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=LeoTerryMaster&theme=highcontrast&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
-## 🔗 Currículo
-
-<p align="center">
-  <a href="https://leoterrymaster.github.io/emprego/">
-    <img src="https://img.shields.io/badge/Meu_Currículo-Download-blue?style=for-the-badge&logo=adobeacrobat">
-  </a>
 </p>
 
 ---
