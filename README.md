@@ -30,30 +30,12 @@
 ## 💻 Tecnologias e Ferramentas
 
 <table>
-  <tr>
-    <td>Java</td>
-    <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td>JSP</td>
-    <td><img src="https://img.shields.io/badge/JSP-FFB913?style=for-the-badge&logo=jsp&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td><img src="https://img.shields.io/badge/JavaScript-FFAC33?style=for-the-badge&logo=javascript&logoColor=black"></td>
-  </tr>
-  <tr>
-    <td>HTML5</td>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td>CSS3</td>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td>PHP</td>
-    <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></td>
-  </tr>
+  <tr><td>Java</td><td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td></tr>
+  <tr><td>JSP</td><td><img src="https://img.shields.io/badge/JSP-FFB913?style=for-the-badge&logo=jsp&logoColor=white"></td></tr>
+  <tr><td>JavaScript</td><td><img src="https://img.shields.io/badge/JavaScript-FFAC33?style=for-the-badge&logo=javascript&logoColor=black"></td></tr>
+  <tr><td>HTML5</td><td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td></tr>
+  <tr><td>CSS3</td><td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td></tr>
+  <tr><td>PHP</td><td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></td></tr>
 </table>
 
 ---
@@ -61,11 +43,28 @@
 ## 📈 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LeoTerryMaster&theme=highcontrast" alt="GitHub Streak">
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=LeoTerryMaster&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&show_icons=true&theme=highcontrast" alt="GitHub Stats">
+  <!-- Estatísticas Gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Linguagens Mais Usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTerryMaster&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Contribuição em Gráfico -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoTerryMaster&theme=highcontrast&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=LeoTerryMaster&theme=highcontrast&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
@@ -94,7 +93,11 @@
 
 ## 🕒 WakaTime Stats
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TerryMaster&theme=highcontrast)](https://github.com/LeoTerryMaster/github-readme-stats)
+<p align="center">
+  <a href="https://wakatime.com/@TerryMaster">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TerryMaster&theme=highcontrast&hide_border=true" alt="WakaTime Stats">
+  </a>
+</p>
 
 ---
 
