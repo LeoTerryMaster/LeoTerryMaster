@@ -50,35 +50,6 @@
 
 ---
 
-## 📈 Estatísticas GitHub
-
-<p align="center">
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=LeoTerryMaster&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Estatísticas Gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTerryMaster&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Contribuição em Gráfico -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoTerryMaster&theme=highcontrast&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=LeoTerryMaster&theme=highcontrast&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
 ## 🌍 Conecte-se comigo
 
 - 🌐 Website: [mult-verso.com](https://www.mult-verso.com)
@@ -88,16 +59,6 @@
 - 💬 WhatsApp: [Grupo Mult-Verso](https://chat.whatsapp.com/J85Vz2Fi8stGoTWSLIMPdk)
 - 📸 Instagram: [@terrygomess](https://www.instagram.com/terrygomess/)
 - 🎮 Discord: [Server Mult-Verso](https://discord.gg/EN8mJBcu)
-
----
-
-## 🕒 WakaTime Stats
-
-<p align="center">
-  <a href="https://wakatime.com/@TerryMaster">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TerryMaster&theme=highcontrast&hide_border=true" alt="WakaTime Stats">
-  </a>
-</p>
 
 ---
 
@@ -129,6 +90,46 @@
   🔗 <a href="https://www.mult-verso.com" target="_blank">Ver projeto completo</a>
 </p>
 
+
+
+## 📈 Estatísticas GitHub
+
+<p align="center">
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=LeoTerryMaster&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Estatísticas Gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Linguagens Mais Usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTerryMaster&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Contribuição em Gráfico -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoTerryMaster&theme=highcontrast&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=LeoTerryMaster&theme=highcontrast&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+## 🕒 WakaTime Stats
+
+<p align="center">
+  <a href="https://wakatime.com/@TerryMaster">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TerryMaster&theme=highcontrast&hide_border=true" alt="WakaTime Stats">
+  </a>
+</p>
+
+---
 
 ## ⭐ Contribuições & Repositórios
 
