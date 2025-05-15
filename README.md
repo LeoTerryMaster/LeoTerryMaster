@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.mult-verso.com/">
+  <a href="https://www.mult-verso.com/forum/" target="_blank">
     <img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" alt="TerryMaster-inGame" width="60%" />
   </a>
 </p>
