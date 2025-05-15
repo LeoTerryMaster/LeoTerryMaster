@@ -1,39 +1,86 @@
-# 👋 Olá, sou **Leandro Gomes**
+<h1 align="center">👋 Olá, sou <span style="color:#00BFFF;">Leandro Gomes</span></h1>
 
-[![TerryMaster-inGame](https://media1.giphy.com/media/Y4dj3NVmgcUWCzSmoq/giphy.webp)](https://www.mult-verso.com/)
+<p align="center">
+  <em>Entusiasta de <strong>tecnologia</strong> e <strong>games</strong>, com foco em desenvolvimento de sistemas e soluções inovadoras.</em><br>
+  <em>Sempre em busca de desafios e aprendizados no mundo da programação e jogos.</em>
+</p>
 
-Sou um entusiasta de **tecnologia e jogos**, focado em desenvolvimento e estudo de **jogos** e **programação**.  
-Sempre buscando novos desafios para inovar e criar soluções tecnológicas.
+<p align="center">
+  <a href="https://www.mult-verso.com/">
+    <img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" alt="TerryMaster-inGame" width="60%" />
+  </a>
+</p>
 
 ---
 
 ## 🌐 Fórum Mult-Verso
 
-Acesse o nosso fórum para discussões sobre **tecnologia**, **jogos** e **programação**:  
-[![Fórum Mult-Verso](https://img.shields.io/badge/Forum-Visit-2a9d8f?style=for-the-badge)](https://www.mult-verso.com/)
+<p>
+  Participe da comunidade e compartilhe conhecimento sobre <strong>tecnologia</strong>, <strong>jogos</strong> e <strong>programação</strong>:
+</p>
+
+<p align="center">
+  <a href="https://www.mult-verso.com/">
+    <img src="https://img.shields.io/badge/Forum-Visitar-2a9d8f?style=for-the-badge&logo=discourse&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ## 💻 Tecnologias e Ferramentas
 
-| Linguagem / Tecnologia | Logo |
-|-----------------------|-------|
-| Java                  | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
-| JSP                   | ![JSP](https://img.shields.io/badge/JSP-FFB913?style=for-the-badge&logo=jsp&logoColor=white) |
-| JavaScript            | ![JavaScript](https://img.shields.io/badge/JavaScript-FFAC33?style=for-the-badge&logo=javascript&logoColor=black) |
-| HTML5                 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| CSS3                  | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| PHP                   | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+<table>
+  <tr>
+    <td>Java</td>
+    <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td>JSP</td>
+    <td><img src="https://img.shields.io/badge/JSP-FFB913?style=for-the-badge&logo=jsp&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td><img src="https://img.shields.io/badge/JavaScript-FFAC33?style=for-the-badge&logo=javascript&logoColor=black"></td>
+  </tr>
+  <tr>
+    <td>HTML5</td>
+    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td>CSS3</td>
+    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td>PHP</td>
+    <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></td>
+  </tr>
+</table>
 
 ---
 
-## 🔗 **Meu Currículo**
+## 📈 Estatísticas GitHub
 
-[![Currículo](https://img.shields.io/badge/Meu_Currículo-Download-blue?style=for-the-badge&logo=adobeacrobat)](https://leoterrymaster.github.io/emprego/)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LeoTerryMaster&theme=highcontrast" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&show_icons=true&theme=highcontrast" alt="GitHub Stats">
+</p>
 
 ---
 
-## 🔗 Conecte-se comigo
+## 🔗 Currículo
+
+<p align="center">
+  <a href="https://leoterrymaster.github.io/emprego/">
+    <img src="https://img.shields.io/badge/Meu_Currículo-Download-blue?style=for-the-badge&logo=adobeacrobat">
+  </a>
+</p>
+
+---
+
+## 🌍 Conecte-se comigo
 
 - 🌐 Website: [mult-verso.com](https://www.mult-verso.com)
 - ▶️ YouTube: [@L2MultVerso](https://www.youtube.com/@L2MultVerso)
@@ -45,103 +92,82 @@ Acesse o nosso fórum para discussões sobre **tecnologia**, **jogos** e **progr
 
 ---
 
-## ⏱️ WakaTime Stats
+## 🕒 WakaTime Stats
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TerryMaster)](https://github.com/LeoTerryMaster/github-readme-stats)
-
----
-
-## 🚀 Projetos em Desenvolvimento
-
-### Java Web Agenda  
-[Repositório no GitHub](https://github.com/LeoTerryMaster/Java_Web_Agenda)
-
-**Tecnologias:**  
-Java 19 | Tomcat 9 | MariaDB | iTextPDF | HTML / CSS / JavaScript
-
-**Funcionalidades:**  
-- Gerenciamento completo de contatos (criar, editar, excluir)  
-- Geração de relatórios PDF  
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TerryMaster&theme=highcontrast)](https://github.com/LeoTerryMaster/github-readme-stats)
 
 ---
 
-### Mult-Verso (Site Oficial)  
-[Visite o site](https://www.mult-verso.com)
+## 🚧 Projetos em Destaque
 
-**Destaques do projeto:**  
-- Menu fixo no topo  
-- Imagem/banner de abertura  
-- Exibição dinâmica de tipos de licença  
-- Comentários em destaque dos usuários  
-- Rodapé personalizado com informações gerais  
+### 🗓️ Java Web Agenda  
+🔗 [Repositório no GitHub](https://github.com/LeoTerryMaster/Java_Web_Agenda)
 
----
-
-## 🔐 Sistema de Login e Segurança
-
-- Autenticação via token seguro  
-- Controle de tentativas para evitar ataques de força bruta  
-- Controle de sessão e logout seguro  
-- Níveis de acesso:  
-  - 👑 Admin  
-  - 👤 Usuário comum  
+**Stack:** Java 19 | Tomcat 9 | MariaDB | iTextPDF | HTML/CSS/JS  
+**Funcionalidades:**
+- Gerenciamento de contatos
+- Geração de relatórios em PDF
 
 ---
 
-## 🛠️ API & Backend
+### 🌐 Mult-Verso - Site Oficial  
+🔗 [Visite o site](https://www.mult-verso.com)
 
-- Controle de acesso via IP  
-- Autenticação via chave/API Token  
-- Controle rigoroso de banco de dados  
-- Gerenciamento de prazo e expiração de licenças  
-
----
-
-## 📊 Dashboard do Usuário
-
-- Criação, edição e exclusão segura de licenças  
-- Controle de status com acumulação de valores  
-- Confirmação via senha para exclusões  
+**Funcionalidades:**
+- Licenciamento dinâmico
+- Comentários em destaque
+- Rodapé com informações gerais
 
 ---
 
-## 💳 Integração de Pagamentos
+## 🔐 Sistema de Login Seguro
 
-- MercadoPago para pagamentos automáticos  
-- PayPal e Stripe desativados  
-
----
-
-## 📚 Sistema de Logs
-
-- Registro completo das interações com a API (em SQL)  
-- Logs detalhados de edições e acessos (arquivos TXT)  
+- Autenticação com token e sessões seguras  
+- Controle de tentativas de login  
+- Níveis de acesso (Admin / Usuário)
 
 ---
 
-## 🖥️ Sistema Java
+## 🛠️ Backend & API
 
-- Controle avançado de funcionalidades  
-- Restrição de IP para acesso seguro  
-
----
-
-## ✨ Destaques
-
-- Segurança reforçada com token, sessão e IP  
-- Sistema completo de licenciamento e gerenciamento  
-- Integração com MercadoPago para pagamentos  
-- Registros detalhados para auditoria e controle  
-- Estrutura de níveis para administração  
+- Autenticação com chave/API Token  
+- Restrições por IP  
+- Gerenciamento de licenças com validade e status  
 
 ---
 
-## 📂 Repositórios e Contribuições
+## 📊 Painel do Usuário
 
-Explore meus projetos no GitHub:  
-[![GitHub](https://img.shields.io/badge/GitHub-LeandroGomes-181717?style=for-the-badge&logo=github)](https://github.com/LeoTerryMaster)
+- CRUD de licenças com autenticação por senha  
+- Controle de status e valores  
+- Logs detalhados em banco e arquivos
 
 ---
 
-### Obrigado por visitar meu perfil!  
-Vamos juntos inovar e transformar ideias em realidade! 🚀
+## 💳 Integração com MercadoPago
+
+- Pagamento automático de planos/licenças  
+- Stripe e PayPal (indisponíveis)
+
+---
+
+## 🧠 Sistema Java & Segurança
+
+- Bloqueio por IP  
+- Integração com painel web  
+- Controle detalhado de funcionalidades por licença  
+
+---
+
+## ⭐ Contribuições & Repositórios
+
+<p align="center">
+  <a href="https://github.com/LeoTerryMaster">
+    <img src="https://img.shields.io/badge/GitHub-LeandroGomes-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center"><strong>🚀 Obrigado por visitar meu perfil!</strong></p>
+<p align="center">Vamos juntos inovar e transformar ideias em realidade.</p>
