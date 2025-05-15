@@ -109,15 +109,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTerryMaster&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- Contribuição em Gráfico -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoTerryMaster&theme=highcontrast&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=LeoTerryMaster&theme=highcontrast&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
 
 ---
 
@@ -127,6 +118,19 @@
   <a href="https://wakatime.com/@TerryMaster">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TerryMaster&theme=highcontrast&hide_border=true" alt="WakaTime Stats">
   </a>
+</p>
+
+
+---
+
+<p align="center">
+  <!-- Contribuição em Gráfico -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoTerryMaster&theme=highcontrast&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=LeoTerryMaster&theme=highcontrast&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
