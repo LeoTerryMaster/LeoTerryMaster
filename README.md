@@ -60,6 +60,14 @@
 - 📸 Instagram: [@terrygomess](https://www.instagram.com/terrygomess/)
 - 🎮 Discord: [Server Mult-Verso](https://discord.gg/EN8mJBcu)
 
+
+---
+
+## 🛠️ Projetos reset_SMTP_Password
+
+### reset_SMTP_Password
+🔗 [Repositório no GitHub](https://github.com/LeoTerryMaster/reset_password)
+
 ---
 
 ## 🚧 Projetos em Destaque
