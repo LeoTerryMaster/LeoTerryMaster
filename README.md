@@ -5,9 +5,10 @@
 
 <p align="center">
   <a href="https://www.mult-verso.com/forum/">
-    <img src="https://github.com/LeoTerryMaster/LeoTerryMaster/blob/main/img/programando.gif" alt="TerryMaster-inGame" width="60%" />
+    <img src="https://www.mult-verso.com/forum/logo_forum.png" alt="MultVerso Fórum" width="60%" />
   </a>
 </p>
+
 
 
 ---
