@@ -9,15 +9,6 @@
   </a>
 </p>
 
----
-
-## 🔗 Currículo
-
-<p align="center">
-  <a href="https://leoterrymaster.github.io/emprego/">
-    <img src="https://img.shields.io/badge/Meu_Currículo-Download-blue?style=for-the-badge&logo=adobeacrobat" />
-  </a>
-</p>
 
 ---
 
