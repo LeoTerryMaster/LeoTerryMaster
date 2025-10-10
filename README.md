@@ -1,7 +1,7 @@
 # 👋 Olá, sou **Leandro Gomes**
 
-> *Entusiasta de **tecnologia** e **games**, com foco em desenvolvimento de sistemas e soluções inovadoras.*  
-> *Sempre em busca de desafios e aprendizados no mundo da programação e jogos.*
+> 💻 *Entusiasta de **tecnologia** e **games**, com foco em desenvolvimento de sistemas e soluções inovadoras.*  
+> 🎮 *Sempre em busca de desafios e aprendizados no mundo da programação e jogos.*
 
 <p align="center">
   <a href="https://www.mult-verso.com/forum/">
@@ -40,16 +40,46 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🚧 Projetos em Destaque
+## 🚀 **Projeto em Destaque — Sistema de Cadastro e Login Seguro em PHP**
+
+📂 [**Acesse o repositório completo**](https://github.com/LeoTerryMaster/Cadastrolandia/tree/raiz)
+
+> Um projeto completo de autenticação segura com **PHP 8+, PDO, CSRF e mensagens dinâmicas**, focado em segurança e boas práticas.
+
+🎥 **Assista à explicação no YouTube:**  
+👉 [https://youtu.be/cO9BOIWM9ME](https://youtu.be/cO9BOIWM9ME)
+
+### 💡 Destaques do Projeto:
+- ✍️ Validação completa de campos (nome, email, senha)  
+- 🔐 Proteção **CSRF** em todos os formulários  
+- ⚡ Fluxo limpo com `switch/case`  
+- 💬 Mensagens de feedback dinâmicas  
+- 🧱 PDO com **prepared statements** (segurança contra SQL Injection)  
+- 🧭 Estrutura modular (Helpers, DAO, Controller, Views)  
+- 🐞 Página de debug completa (`logado.php`) exibindo variáveis, sessão e contexto do servidor  
+- 📱 Interface simples com **Bootstrap 5**
+
+🧠 **Tecnologias:**  
+`PHP 8.2` · `PDO` · `CSRF Protection` · `Bootstrap` · `HTML5` · `CSS3`  
+
+💾 **Banco de Dados:** MySQL (estrutura leve e escalável)  
+
+📘 **Objetivo:**  
+Servir como **base sólida** para qualquer projeto web com autenticação segura e arquitetura organizada.
+
+---
+
+## ⚙️ Outros Projetos em Destaque
 
 ### 🗓 Java Web Agenda  
 [🔗 Repositório no GitHub](https://github.com/LeoTerryMaster/Java_Web_Agenda)  
-
 **Stack:** Java 19 · Tomcat 9 · MariaDB · iTextPDF · HTML/CSS/JS  
-**Funcionalidades:**
+**Funcionalidades:**  
 - Gerenciamento de contatos  
 - Geração de relatórios em PDF  
 
@@ -58,12 +88,12 @@
 ### 🔐 API de Licenciamento Segura  
 Sistema completo para **validação de licenças** com foco em segurança:  
 
-- 🔑 Autenticação por Token/API Key  
+- 🔑 Autenticação via Token/API Key  
 - 🔒 Restrição por IP e validade  
 - 📋 Logs detalhados  
 - ⚙️ Integração com sistema Java  
-- 🧠 Controle avançado por tipo de licença  
-- 💳 Suporte ao MercadoPago (pagamentos automáticos)  
+- 🧠 Controle avançado de licenças  
+- 💳 Suporte ao MercadoPago  
 
 [🔗 Ver projeto completo](https://www.mult-verso.com)
 
