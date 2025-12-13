@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.mult-verso.com/forum/">
+  <a href="https://www.mult-verso.com/">
     <img src="https://www.mult-verso.com/forum/logo_forum.png" alt="MultVerso Fórum" width="60%" />
   </a>
 </p>
