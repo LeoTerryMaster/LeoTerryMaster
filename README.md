@@ -1,102 +1,180 @@
-# 🚀 Portfólio — Leandro Gomes  
-### Desenvolvedor Full Stack | Java (Spring Boot) • React (Next.js) • PHP
+# 🚀 Leandro Gomes
 
-💻 Apaixonado por construir **sistemas seguros, performáticos e escaláveis**  
-🎯 Foco em **boas práticas, arquitetura limpa e APIs REST**
-
-🌐 Site: https://www.mult-verso.com  
-📺 YouTube: https://www.youtube.com/@L2MultVerso  
-💼 LinkedIn: https://www.linkedin.com/in/leandro-gomes-santos-81694919b/
+## Backend Developer | Java & Spring Boot  
+Full Stack Engineer | React • Next.js • PHP
 
 ---
 
-## 🧠 Sobre mim
+## 🎯 Posicionamento Profissional
 
-Sou desenvolvedor com foco em **Backend com Java + Spring Boot** e **Frontend moderno com React + Next.js**, criando sistemas web completos do zero até produção.  
-Tenho experiência com **autenticação, APIs seguras, banco de dados e boas práticas de arquitetura**.
+Desenvolvedor com foco principal em **Backend Java com Spring Boot**, especializado em:
 
-> 🚀 Busco oportunidade como **Desenvolvedor Backend Java / Full Stack Júnior ou Pleno**.
+- Arquitetura REST
+- Segurança de APIs
+- Autenticação com JWT
+- Integração entre sistemas
+- Banco de dados relacional
+- Organização em camadas
+- Clean Code
 
----
+Possuo experiência prática construindo sistemas completos em produção, incluindo:
 
-## 🛠️ Stack Principal
-
-### 🔙 Backend
-- ☕ Java 19  
-- 🌱 Spring Boot  
-- 🔐 JWT / API Key  
-- 🗄️ MySQL / MariaDB  
-- 📦 JPA / Hibernate  
-- 🧪 APIs REST bem estruturadas  
-
-### 🎨 Frontend
-- ⚛️ React  
-- 🚀 Next.js  
-- 🎨 HTML5 / CSS3 / Bootstrap  
-- ⚡ JavaScript moderno (ES6+)  
-
-### ⚙️ Outros
-- 🐘 PHP 8+ (PDO, CSRF, segurança)  
-- 🔒 Segurança Web (CSRF, SQL Injection)  
-- 🧠 MVC / Clean Code  
-- 🐳 Docker (básico)  
-- 🔧 Git / GitHub  
+- API de licenciamento
+- Integração com servidores externos
+- Sistemas de autenticação segura
+- Dashboards administrativos
+- Automação de ativação via pagamento
 
 ---
 
-## 🚀 Projetos em Destaque
+# 🧠 Especialidades Técnicas
 
-### 🔐 Sistema de Cadastro e Login Seguro (PHP)
-📂 Repo: https://github.com/LeoTerryMaster/Cadastrolandia  
-🎥 Vídeo: https://www.youtube.com/watch?v=cO9BOIWM9ME  
+## ☕ Backend (Principal)
 
-**Demonstra na prática:**
-- ✔️ Autenticação segura  
-- ✔️ CSRF Token  
-- ✔️ PDO + Prepared Statements  
-- ✔️ Arquitetura em camadas (DAO, Controllers, Helpers)  
-- ✔️ Interface moderna com Bootstrap  
-
----
-
-### 📅 Java Web Agenda
-📂 Repo: https://github.com/LeoTerryMaster/Java_Web_Agenda  
-
-**Demonstra:**
-- ✔️ CRUD completo  
-- ✔️ Relatórios em PDF  
-- ✔️ Java Web + Banco de Dados  
-- ✔️ Organização de camadas  
+- Java 17/19
+- Spring Boot
+- Spring Security
+- JWT
+- API Key
+- JPA / Hibernate
+- MySQL / MariaDB
+- Criação de APIs REST escaláveis
+- Tratamento global de exceções
+- Validação de dados
+- Logs e auditoria
+- Arquitetura em camadas (Controller / Service / Repository)
 
 ---
 
-### 🔑 API de Licenciamento (Java)
-🌐 Produção: https://www.mult-verso.com  
+## ⚛️ Frontend
 
-**Demonstra:**
-- ✔️ API REST  
-- ✔️ Autenticação por Token  
-- ✔️ Restrição por IP  
-- ✔️ Logs e auditoria  
-- ✔️ Integração entre sistemas  
-- ✔️ Pagamentos (MercadoPago)  
+- React
+- Next.js
+- HTML5
+- CSS3
+- Bootstrap
+- Consumo de APIs REST
+- Organização de componentes
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🐘 PHP (Experiência Complementar)
+
+- PHP 8+
+- PDO
+- CSRF Protection
+- Prepared Statements
+- Estrutura modular
+- Segurança web
+
+---
+
+## 🔐 Segurança Aplicada
+
+- JWT Authentication
+- Controle de acesso
+- Restrição por IP
+- Proteção contra SQL Injection
+- CSRF Protection
+- Hash seguro de senha
+- Controle de sessão
+
+---
+
+# 🚀 Projetos Relevantes
+
+---
+
+## 🔑 API de Licenciamento (Projeto em Produção)
+
+🌐 https://www.mult-verso.com  
+
+Sistema completo de validação de licença com:
+
+- API REST
+- Token dinâmico
+- Restrição por IP
+- Auditoria de requisições
+- Integração com servidor Java
+- Automação de ativação via pagamento
+- Controle administrativo completo
+
+### Diferencial:
+Projeto real em produção com integração entre backend Java e sistema web.
+
+---
+
+## 🔐 Sistema de Autenticação Segura (PHP)
+
+📂 https://github.com/LeoTerryMaster/Cadastrolandia  
+
+Demonstra:
+
+- Arquitetura em camadas
+- CSRF Token
+- PDO + Prepared Statements
+- Estrutura organizada
+- Interface moderna
+
+---
+
+## 📅 Java Web Agenda
+
+📂 https://github.com/LeoTerryMaster/Java_Web_Agenda  
+
+Demonstra:
+
+- CRUD completo
+- Organização backend
+- Geração de relatórios
+- Integração com banco de dados
+
+---
+
+# 📈 Diferenciais Profissionais
+
+✔ Construo sistemas do zero até produção  
+✔ Experiência prática com APIs reais  
+✔ Organização e padronização de código  
+✔ Foco em segurança  
+✔ Mentalidade de arquitetura  
+✔ Evolução contínua  
+
+---
+
+# 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&show_icons=true&theme=highcontrast&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTerryMaster&layout=compact&theme=highcontrast&hide_border=true)
 
 ---
 
-## 📬 Contato
+# 🎯 Objetivo
 
-📧 Email: **(coloque seu email aqui)**  
-💼 LinkedIn: https://www.linkedin.com/in/leandro-gomes-santos-81694919b/  
-🌐 Site: https://www.mult-verso.com  
+Atuar como:
+
+- Backend Java Developer
+- Desenvolvedor Full Stack
+- Engenheiro de Software
+
+Contribuindo com:
+
+- Código limpo
+- Arquitetura escalável
+- Segurança
+- Performance
+- Organização técnica
 
 ---
 
-⭐ Se curtiu algum projeto, deixa uma estrela!  
-🚀 Sempre aberto a aprender, evoluir e contribuir com times incríveis.
+# 📬 Contato
+
+🌐 https://www.mult-verso.com  
+💼 https://www.linkedin.com/in/leandro-gomes-santos-81694919b/  
+📺 https://www.youtube.com/@L2MultVerso  
+📧 leandrogomes.santos.terrymaster@gmail.com
+
+---
+
+⭐ Sempre aberto a desafios técnicos, aprendizado contínuo e times que valorizam qualidade de código.
