@@ -4,6 +4,9 @@
 Full Stack Engineer | React • Next.js • PHP
 
 ---
+## 🚀 Meu passa tempor
+https://www.youtube.com/watch?v=PhwjyBbWCzg
+
 
 ## 🎯 Posicionamento Profissional
 
