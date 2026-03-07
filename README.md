@@ -4,7 +4,7 @@
 Full Stack Engineer | React • Next.js • PHP
 
 ---
-## 🚀 Meu passa tempor
+## 🚀 Meu passa tempo
 https://www.youtube.com/watch?v=PhwjyBbWCzg
 
 
