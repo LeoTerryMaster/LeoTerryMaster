@@ -1,177 +1,123 @@
 # 🚀 Leandro Gomes
 
-## Backend Developer | Java & Spring Boot  
-Full Stack Engineer | React • Next.js • PHP
-
----
-## 🚀 Meu passa tempo
-https://www.youtube.com/watch?v=PhwjyBbWCzg
-
-
-## 🎯 Posicionamento Profissional
-
-Desenvolvedor com foco principal em **Backend Java com Spring Boot**, especializado em:
-
-- Arquitetura REST
-- Segurança de APIs
-- Autenticação com JWT
-- Integração entre sistemas
-- Banco de dados relacional
-- Organização em camadas
-- Clean Code
-
-Possuo experiência prática construindo sistemas completos em produção, incluindo:
-
-- API de licenciamento
-- Integração com servidores externos
-- Sistemas de autenticação segura
-- Dashboards administrativos
-- Automação de ativação via pagamento
+🧠 Software Engineer | Backend Java & PHP  
+⚡ APIs • Sistemas Escaláveis • Segurança • IA
 
 ---
 
-# 🧠 Especialidades Técnicas
+## 💡 Sobre
 
-## ☕ Backend (Principal)
+Desenvolvedor Full Stack com forte foco em backend, especializado em construção de APIs seguras, sistemas escaláveis e integrações complexas.
 
-- Java 17/19
-- Spring Boot
-- Spring Security
-- JWT
-- API Key
-- JPA / Hibernate
-- MySQL / MariaDB
-- Criação de APIs REST escaláveis
-- Tratamento global de exceções
-- Validação de dados
-- Logs e auditoria
-- Arquitetura em camadas (Controller / Service / Repository)
+Experiência prática em projetos reais em produção, incluindo sistemas de licenciamento, autenticação, pagamentos, logs e plataformas com alto volume de interação (feed, chat, APIs).
+
+Atuação baseada em performance, segurança e arquitetura sólida.
+
+---
+## Cursos
+https://multcurso.com/
+
+
+## ⚙️ Stack Principal
+
+**Backend**
+- Java (Spring Boot, Security, JWT)
+- PHP (MVC, APIs REST, PDO)
+
+**Banco de Dados**
+- PostgreSQL
+- MySQL
+
+**Frontend**
+- React / Next.js
+- JavaScript / HTML / CSS
+
+**Infra & Arquitetura**
+- Redis (cache, sessões)
+- PgBouncer (pooling)
+- Filas e processamento assíncrono
+- WebSockets (tempo real)
 
 ---
 
-## ⚛️ Frontend
+## 🔐 Especialidades
 
-- React
-- Next.js
-- HTML5
-- CSS3
-- Bootstrap
-- Consumo de APIs REST
-- Organização de componentes
-
----
-
-## 🐘 PHP (Experiência Complementar)
-
-- PHP 8+
-- PDO
-- CSRF Protection
-- Prepared Statements
-- Estrutura modular
-- Segurança web
+- Segurança de aplicações (JWT, CSRF, validação, controle de acesso)
+- APIs REST escaláveis
+- Integração com gateways de pagamento
+- Sistemas de autenticação e licenciamento
+- Otimização de performance e queries
+- Logs, auditoria e observabilidade
+- Sistemas em tempo real (feed / chat)
 
 ---
 
-## 🔐 Segurança Aplicada
+## 🚀 Projetos em Destaque
 
-- JWT Authentication
-- Controle de acesso
-- Restrição por IP
-- Proteção contra SQL Injection
-- CSRF Protection
-- Hash seguro de senha
-- Controle de sessão
+### 🔑 Sistema de Licenciamento (Produção)
+- API REST segura
+- Validação por token e IP
+- Integração com pagamentos
+- Automação de ativação
+- Painel administrativo
 
----
-
-# 🚀 Projetos Relevantes
+🌐 https://www.mult-verso.com
 
 ---
 
-## 🔑 API de Licenciamento (Projeto em Produção)
-
-🌐 https://www.mult-verso.com  
-
-Sistema completo de validação de licença com:
-
-- API REST
-- Token dinâmico
-- Restrição por IP
-- Auditoria de requisições
-- Integração com servidor Java
-- Automação de ativação via pagamento
-- Controle administrativo completo
-
-### Diferencial:
-Projeto real em produção com integração entre backend Java e sistema web.
+### 💬 Plataforma Social (Feed + Chat)
+- Feed estilo rede social
+- Chat em tempo real
+- Controle anti-spam
+- Alta interação simultânea
 
 ---
 
-## 🔐 Sistema de Autenticação Segura (PHP)
-
-📂 https://github.com/LeoTerryMaster/Cadastrolandia  
-
-Demonstra:
-
-- Arquitetura em camadas
-- CSRF Token
-- PDO + Prepared Statements
-- Estrutura organizada
-- Interface moderna
+### 💳 Integração de Pagamentos
+- PayPal
+- Validação automática
+- Liberação de serviços
+- Proteção contra fraude
 
 ---
 
-## 📅 Java Web Agenda
-
-📂 https://github.com/LeoTerryMaster/Java_Web_Agenda  
-
-Demonstra:
-
-- CRUD completo
-- Organização backend
-- Geração de relatórios
-- Integração com banco de dados
+### 📊 Sistema de Logs e Auditoria
+- Logs de erro e eventos
+- Rastreamento de ações
+- Base para observabilidade
 
 ---
 
-# 📈 Diferenciais Profissionais
+## 🎮 Extra
 
-✔ Construo sistemas do zero até produção  
-✔ Experiência prática com APIs reais  
-✔ Organização e padronização de código  
-✔ Foco em segurança  
-✔ Mentalidade de arquitetura  
-✔ Evolução contínua  
+Experiência com desenvolvimento e customização de servidores de jogos (Lineage II), incluindo:
+- Sistemas customizados
+- Otimização de servidor
+- Debug avançado
 
 ---
 
-# 📊 GitHub Stats
+## 📈 Diferenciais
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoTerryMaster&show_icons=true&theme=highcontrast&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTerryMaster&layout=compact&theme=highcontrast&hide_border=true)
+- Experiência real em produção
+- Forte base em backend e arquitetura
+- Foco em performance e segurança
+- Capacidade de construir sistemas completos
+- Mentalidade orientada a escala
 
 ---
 
-# 🎯 Objetivo
+## 🎯 Objetivo
 
 Atuar como:
 
 - Backend Java Developer
-- Desenvolvedor Full Stack
-- Engenheiro de Software
-
-Contribuindo com:
-
-- Código limpo
-- Arquitetura escalável
-- Segurança
-- Performance
-- Organização técnica
+- Full Stack Developer
+- Software Engineer
 
 ---
 
-# 📬 Contato
+## 📬 Contato
 
 🌐 https://www.mult-verso.com  
 💼 https://www.linkedin.com/in/leandro-gomes-santos-81694919b/  
@@ -180,4 +126,4 @@ Contribuindo com:
 
 ---
 
-⭐ Sempre aberto a desafios técnicos, aprendizado contínuo e times que valorizam qualidade de código.
+⭐ Foco em projetos reais, escaláveis e de alto nível técnico.
