@@ -120,7 +120,7 @@ Atuar como:
 ## 📬 Contato
 
 🌐 https://www.mult-verso.com  
-💼 https://www.linkedin.com/in/leandro-gomes-santos-81694919b/  
+💼 https://www.linkedin.com/in/leandro-gomes-terry/
 📺 https://www.youtube.com/@L2MultVerso  
 📧 leandrogomes.santos.terrymaster@gmail.com
 
